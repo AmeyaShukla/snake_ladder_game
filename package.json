@@ -1,0 +1,20 @@
+{
+  "name": "snake_and_ladder",
+  "version": "1.0.0",
+  "description": "snake and ladder game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "Ameya Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lodash": "^4.17.11",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
